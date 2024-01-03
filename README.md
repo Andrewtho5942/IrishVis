@@ -1,2 +1,2 @@
 # IrishVis
-A project done in R to visualize the changes in Irish speakers over time.
+A project done in CGT270 (Data Visualization), where I analyzed how the number of Irish speakers has changed over time.
